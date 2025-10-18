@@ -8,9 +8,9 @@ The analysis was done using Python (EDA + Feature Engineering) and Power BI.
 https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling/data
 
 **Key Metrics**
-Total Customers: 10,000
-Churned Customers: 2,037
-Churn Rate: 20.37%
+1) Total Customers: 10,000
+2) Churned Customers: 2,037
+3) Churn Rate: 20.37%
 
 **Main Insights**
 1) Younger customers (18–35) churn more.
